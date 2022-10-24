@@ -15,4 +15,5 @@ LearnWeb3 separated its teaching into 4 stages:
 |[NFT-Collection](https://github.com/0xSenzel/nft-collection)|
 |[ICO](https://github.com/0xSenzel/ico)|
 |[DAO-tutorial](https://github.com/0xSenzel/dao-tutorial)|
+|[DEX-tutorial](https://github.com/0xSenzel/dex-tutorial)|
 
