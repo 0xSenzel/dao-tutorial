@@ -4,20 +4,29 @@ This repo contains coursework project from [LearnWeb3](https://learnweb3.io/) co
 
 ## Project Info
 
-ICO Dapp provides a platform for launching of ERC20 token by letting users with minted NFT from [NFT Collection](https://0xsenzel-nft-collection.vercel.app/) to mint 10 token for each NFT (free). For users that does not own the NFT, they will require 0.001 ether for 1 token.
+DAO give NFT holders purchased from [NFT Collection](https://0xsenzel-nft-collection.vercel.app/) to create and vote on proposals to use DAO treasury to purchase other NFT from an NFT marketplace.
+
+Each NFT owned counts as 1 vote. if majority of voters vote for the proposal by the deadline, NFT purchase is automatically executed.
 
 ## Project Demo
 
 <figure>
 <img src="./my-app/public/demo1.PNG" alt="demo1" style="width:100%">
-<p align="center">Fig.1 - Eligible User's Login Page To Claim Token</p>
+<p align="center">Fig.1 - User with no NFT Create Proposal</p>
 </figure>
 
 <br/>
 
 <figure>
 <img src="./my-app/public/demo2.PNG" alt="demo1" style="width:100%">
-<p align="center">Fig.2 - Non-Eligible User's Login Page to Mint Token</p>
+<p align="center">Fig.2 - User with NFT Create Proposal</p>
+</figure>
+
+<br/>
+
+<figure>
+<img src="./my-app/public/demo3.PNG" alt="demo1" style="width:100%">
+<p align="center">Fig.3 - View Proposal Tab</p>
 </figure>
 
 ## Project Setup
